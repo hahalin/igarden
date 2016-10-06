@@ -35,8 +35,8 @@
  * https://www.asp.net/identity/overview/getting-started/introduction-to-aspnet-identity
  * https://www.asp.net/mvc/overview/older-versions/using-oauth-providers-with-mvc
  * OWIN 
-  * https://www.asp.net/aspnet/overview/owin-and-katana/an-overview-of-project-katana
-  * https://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection
+   * https://www.asp.net/aspnet/overview/owin-and-katana/an-overview-of-project-katana
+   * https://www.asp.net/aspnet/overview/owin-and-katana/owin-startup-class-detection
  
 ## FrontEnd
 
