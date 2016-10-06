@@ -126,3 +126,12 @@
  * http://stackoverflow.com/questions/24991212/value-cannot-be-null-parameter-name-value-createidentityasync
  * http://stackoverflow.com/questions/19938947/web-api-2-owin-bearer-token-authentication-accesstokenformat-null
  
+ ### etcetc
+  * http://blog.iteedee.com/2014/03/asp-net-identity-2-0-cookie-token-authentication/
+  * http://stackoverflow.com/questions/29048122/token-based-authentication-in-asp-net-5-vnext/29698502#29698502
+  * src https://code.msdn.microsoft.com/vstudio/ASPNet-Web-API-2-in-ASPNet-a049ace3/sourcecode?fileId=147239&pathId=803771802
+  * http://stackoverflow.com/questions/30463511/web-api-2-identity-token-always-return-404-error
+  * http://www.c-sharpcorner.com/UploadFile/ff2f08/token-based-authentication-using-Asp-Net-web-api-owin-and-i/
+  * http://stackoverflow.com/questions/20168978/do-i-need-a-global-asax-cs-file-at-all-if-im-using-an-owin-startup-cs-class-and
+  * https://docs.asp.net/en/latest/migration/webapi.html
+  * https://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-5
