@@ -29,7 +29,7 @@
  * [Using Claims in ASP.NET Identity] (http://kevin-junghans.blogspot.tw/2013/12/using-claims-in-aspnet-identity.html)
  * [Overview of Custom Storage Providers for ASP.NET Identity](https://www.asp.net/identity/overview/extensibility/overview-of-custom-storage-providers-for-aspnet-identity)
  
- * [Token Authentication with Claims and ASP.NET WebAPI] (http://offering.solutions/articles/asp-net/token-authentication-with-claims-and-asp-net-webapi/)
+ * [** Token Authentication with Claims and ASP.NET WebAPI] (http://offering.solutions/articles/asp-net/token-authentication-with-claims-and-asp-net-webapi/)
  
  * ** [自訂Idenfity Storage[使用 ASP.NET Identity 儲存使用者資料](https://msdn.microsoft.com/zh-tw/magazine/dn818488.aspx)
  * ** [MVC5 - ASP.NET Identity登录原理 - Claims-based认证和OWIN](http://www.cnblogs.com/jesse2013/p/aspnet-identity-claims-based-authentication-and-owin.html)
